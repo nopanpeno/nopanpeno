@@ -40,28 +40,10 @@ Email: [nopanpeno@gmail.com](mailto:nopanpeno@gmail.com)
 
 ---
 
-## Projects
-
-<div align="center">
-
-<a href="https://nopanpeno.github.io/Konvertin">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nopanpeno&repo=Konvertin&theme=tokyonight&hide_border=true" alt="Konvertin"/>
-</a>
-<a href="https://nopanpeno.github.io/NvanPass/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nopanpeno&repo=NvanPass&theme=tokyonight&hide_border=true" alt="NvanPass"/>
-</a>
-
-</div>
-
----
-
 ## GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nopanpeno&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nopanpeno&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=nopanpeno&theme=tokyonight&hide_border=true" alt="streak"/>
 </div>
 
 ---
