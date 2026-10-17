@@ -15,27 +15,6 @@
 
 ---
 
-## Bahasa Indonesia
-
-### Minat
-Web Development, JavaScript, dan teknologi Frontend.
-
-### Sedang dipelajari
-HTML, CSS, dan JavaScript sudah mulai akrab. Sekarang sedang mencoba teknologi dan tools lain.
-
-### Mencari kolaborasi
-Proyek web ramah pemula dan kontribusi open-source.
-
-### Fakta unik
-Aku mulai ngoding karena ingin membuat website sendiri!
-
-### Kontak
-Email: [nopanpeno@gmail.com](mailto:nopanpeno@gmail.com)
-
----
-
-## English
-
 ### Interests
 Web Development, JavaScript, and Frontend technologies.
 
@@ -61,7 +40,7 @@ Email: [nopanpeno@gmail.com](mailto:nopanpeno@gmail.com)
 
 ---
 
-## Proyek / Projects
+## Projects
 
 <div align="center">
 
@@ -101,7 +80,7 @@ Email: [nopanpeno@gmail.com](mailto:nopanpeno@gmail.com)
 
 <div align="center">
 
-**Terima kasih sudah mampir! / Thanks for stopping by!**
+**Thanks for stopping by!**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" width="100%"/>
 
