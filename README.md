@@ -7,10 +7,6 @@
 </a>
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=nopanpeno&label=Profile+Views&color=0e75b6&style=flat-square" alt="profile views"/>
-<img src="https://img.shields.io/badge/Pronouns-He%2FHim-blue?style=flat-square" alt="pronouns"/>
-
 </div>
 
 ---
