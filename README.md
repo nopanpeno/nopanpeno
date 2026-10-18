@@ -34,14 +34,6 @@ Email: [nopanpeno@gmail.com](mailto:nopanpeno@gmail.com)
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nopanpeno&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
-</div>
-
----
-
 ## Contribution Snake
 
 <div align="center">
