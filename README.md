@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=nopanpeno&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20in%20Progress&descAlignY=58&descSize=18" alt="header" width="100%"/>
 
 <a href="https://github.com/nopanpeno">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=Halo%2C+aku+Nopan;Hi%2C+I'm+Nopan;Belajar+Web+Development;Learning+Web+Development;Ayo+kolaborasi+bareng!;Let's+collaborate!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Novan;Learning+Web+Development;Let's+collaborate!" alt="Typing SVG" />
 </a>
 </div>
 
