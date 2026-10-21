@@ -26,14 +26,6 @@ Email: [nopanpeno@gmail.com](mailto:nopanpeno@gmail.com)
 
 ---
 
-## Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="tech stack"/>
-</div>
-
----
-
 ## Contribution Snake
 
 <div align="center">
