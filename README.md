@@ -9,7 +9,6 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nopanpeno&label=Profile+Views&color=36BCF7&style=flat-square)
-![Repos](https://img.shields.io/github/search/nopanpeno/nopanpeno?style=flat-square&label=&query=&color=transparent)
 [![Email](https://img.shields.io/badge/Email-nopanpeno%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nopanpeno@gmail.com)
 
 </div>
