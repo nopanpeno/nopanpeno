@@ -9,7 +9,6 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nopanpeno&label=Profile+Views&color=36BCF7&style=flat-square)
-![Followers](https://img.shields.io/github/followers/nopanpeno?label=Followers&style=flat-square&color=6e5494)
 ![Repos](https://img.shields.io/github/search/nopanpeno/nopanpeno?style=flat-square&label=&query=&color=transparent)
 [![Email](https://img.shields.io/badge/Email-nopanpeno%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nopanpeno@gmail.com)
 
@@ -17,13 +16,13 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
-- 🌱 **Currently learning:** HTML, CSS, JavaScript, then other tools and frameworks
-- 💡 **Interests:** Web Development, JavaScript, Frontend technologies
-- 🤝 **Looking to collaborate:** Beginner-friendly web projects and open-source contributions
-- 🎯 **Fun fact:** I started coding because I wanted to build my own website!
-- 📫 **Reach me:** [nopanpeno@gmail.com](mailto:nopanpeno@gmail.com)
+- **Currently learning:** HTML, CSS, JavaScript, then other tools and frameworks
+- **Interests:** Web Development, JavaScript, Frontend technologies
+- **Looking to collaborate:** Beginner-friendly web projects and open-source contributions
+- **Fun fact:** I started coding because I wanted to build my own website!
+- **Reach me:** [nopanpeno@gmail.com](mailto:nopanpeno@gmail.com)
 
 ---
 
@@ -45,20 +44,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nopanpeno&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nopanpeno&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nopanpeno&theme=tokyonight&hide_border=true" alt="streak" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
