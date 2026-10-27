@@ -55,7 +55,7 @@
 
 <div align="center">
 
-**Thanks for stopping by! **
+** Thanks for stopping by! **
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" width="100%" />
 
