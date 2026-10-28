@@ -7,8 +7,10 @@
 </a>
 
 <br/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=nopanpeno&label=Profile+Views&color=36BCF7&style=flat-square)
 [![Email](https://img.shields.io/badge/Email-nopanpeno%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nopanpeno@gmail.com)
+
 </div>
 
 ---
