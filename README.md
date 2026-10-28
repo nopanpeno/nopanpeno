@@ -44,7 +44,6 @@
 ---
 
 ## Contribution Snake
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/nopanpeno/nopanpeno/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
