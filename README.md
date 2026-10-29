@@ -20,7 +20,7 @@
 - **Currently learning:** HTML, CSS, JavaScript, then other tools and frameworks
 - **Interests:** Web Development, JavaScript, Frontend technologies
 - **Looking to collaborate:** Beginner-friendly web projects and open-source contributions
-- **Fun fact:** I started coding because I wanted to build my own website!
+- **Fun fact:** I started coding because I wanted to build my own website!!
 - **Reach me:** [nopanpeno@gmail.com](mailto:nopanpeno@gmail.com)
 
 ---
