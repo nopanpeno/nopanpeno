@@ -19,7 +19,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 - **Currently learning:** HTML, CSS, JavaScript, then other tools and frameworks
 - **Interests:** Web Development, JavaScript, Frontend technologies
@@ -31,7 +31,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -51,7 +51,7 @@
 
 ---
 
-## 🟩 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
