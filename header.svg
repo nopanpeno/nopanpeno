@@ -118,6 +118,6 @@
     <g class="shoot"><g transform="rotate(17)"><rect x="-90" y="0" width="90" height="2" rx="1" fill="url(#trail)"/><circle cx="0" cy="1" r="2.5" fill="#fff"/></g></g>
     <g class="shoot2" style="transform-origin:0 0"><g transform="translate(260,0) rotate(17)"><rect x="-70" y="0" width="70" height="2" rx="1" fill="url(#trail)"/><circle cx="0" cy="1" r="2" fill="#fff"/></g></g>
     <text class="title" x="500" y="128" font-size="64" fill="#ffffff" text-anchor="middle">nopanpeno</text>
-    <text class="m" x="500" y="168" font-size="20" fill="#a5b4fc" text-anchor="middle">Web Developer in Progress</text>
+    <text class="m" x="500" y="168" font-size="20" fill="#a5b4fc" text-anchor="middle">Learning Web Development</text>
   </g>
 </svg>
