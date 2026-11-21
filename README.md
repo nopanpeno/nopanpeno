@@ -31,6 +31,16 @@
 
 ---
 
+## Projects
+
+| Project | Deskripsi | Link |
+|---|---|---|
+| [NvanHub](https://github.com/nopanpeno/NvanHub) | Web utama buat semua proyek kecil, pakai HTML, CSS, dan JS biasa | [Demo](https://nopanpeno.github.io/NvanHub/) |
+
+<br/>
+
+---
+
 ## Tech Stack
 
 <div align="center">
@@ -44,6 +54,20 @@
 **Next on my list**
 
 <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,ts,figma&theme=dark" alt="learning next" />
+
+</div>
+
+<br/>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nopanpeno&show_icons=true&theme=tokyonight&title_color=36BCF7&icon_color=36BCF7&hide_border=true" alt="GitHub stats" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nopanpeno&layout=compact&theme=tokyonight&title_color=36BCF7&hide_border=true" alt="Top languages" />
 
 </div>
 
