@@ -35,7 +35,7 @@
 
 | Project | Deskripsi | Link |
 |---|---|---|
-| [NvanHub](https://github.com/nopanpeno/NvanHub) | Web utama buat semua proyek kecil, pakai HTML, CSS, dan JS biasa | [Demo](https://nopanpeno.github.io/NvanHub/) |
+| [NvanHub](https://github.com/nopanpeno/NvanHub) | Main web hub for all my small projects, built with plain HTML, CSS, and JS | [Demo](https://nopanpeno.github.io/NvanHub/) |
 
 <br/>
 
