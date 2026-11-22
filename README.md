@@ -33,7 +33,7 @@
 
 ## Projects
 
-| Project | Description | Link |
+| Project | Description | Website |
 |---|---|---|
 | [NvanHub](https://github.com/nopanpeno/NvanHub) | Main web hub for all my small projects, built with plain HTML, CSS, and JS | [Demo](https://nopanpeno.github.io/NvanHub/) |
 
